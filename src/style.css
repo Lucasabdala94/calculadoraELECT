@@ -55,6 +55,20 @@ legend {
   .titulo {
     font-size: 35px;
   }
+
+  .fieldset {
+    display: block;
+    width: 100%;
+    margin: 15px 0px;
+  }
+  .container {
+    margin: 0px;
+    height: 60vh;
+  }
+  legend {
+    padding: 10px;
+    font-size: 25px;
+  }
   .input {
     display: block;
     width: 80%;
@@ -64,18 +78,5 @@ legend {
     background-color: rgba(255, 255, 255, 0.94);
     font-size: 20px;
     font-weight: bolder;
-  }
-
-  .fieldset {
-    display: block;
-    width: 100%;
-    margin: 15px 0px;
-  }
-  .container {
-    margin: 0px;
-  }
-  legend {
-    padding: 10px;
-    font-size: 25px;
   }
 }
