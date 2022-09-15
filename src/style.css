@@ -51,7 +51,7 @@ legend {
   font-size: 30px;
   font-weight: bold;
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 450px) {
   .titulo {
     font-size: 35px;
   }
