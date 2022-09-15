@@ -1,3 +1,5 @@
-# react-veeckk
+# Calculadora de potencia y corriente segun nivel de tension
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-veeckk)
+## Desarrolo
+
+### React
