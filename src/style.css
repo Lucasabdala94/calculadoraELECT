@@ -14,7 +14,7 @@ body {
 .titulo {
   color: #131426;
   text-align: center;
-  font-size: 35px;
+  font-size: 70px;
 }
 .container {
   display: flex;
@@ -24,7 +24,7 @@ body {
   background-color: #131426;
   padding: 15px 0px;
   margin: 0px 8%;
-  height: 80%;
+  min-height: 600px;
 }
 .fieldset {
   display: flex;
@@ -35,7 +35,7 @@ body {
 legend {
   color: rgba(255, 255, 255, 0.94);
   font-weight: bold;
-  font-size: 17px;
+  font-size: 35px;
   width: 100%;
   text-align: center;
 }
@@ -48,10 +48,13 @@ legend {
   background-color: rgba(255, 255, 255, 0.94);
   outline: none;
   padding: 4px;
-  font-size: 14px;
+  font-size: 30px;
   font-weight: bold;
 }
 @media screen and (max-width: 650px) {
+  .titulo {
+    font-size: 35px;
+  }
   .input {
     display: block;
     width: 80%;
