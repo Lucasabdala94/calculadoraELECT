@@ -24,6 +24,7 @@ body {
   background-color: #131426;
   padding: 15px 0px;
   margin: 0px 8%;
+  height: 80%;
 }
 .fieldset {
   display: flex;
